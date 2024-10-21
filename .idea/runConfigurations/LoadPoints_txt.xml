@@ -1,0 +1,17 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="LoadPoints.txt" type="Application" factoryName="Application">
+    <option name="envFilePaths">
+      <option value="e/docs/points.txt" />
+    </option>
+    <option name="MAIN_CLASS_NAME" value="Closest" />
+    <module name="Find Two Closest Points in 2D Plane" />
+    <option name="REDIRECT_INPUT" value="true" />
+    <option name="INPUT_FILE" value="$PROJECT_DIR$/src/points.txt" />
+    <selectedOptions>
+      <option name="environmentVariables" visible="false" />
+    </selectedOptions>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
