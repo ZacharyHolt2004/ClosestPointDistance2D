@@ -3,7 +3,7 @@ This project is fairly simple and is meant as an exercise in my understanding of
 OVERVIEW:
 The program processes a large dataset of 1,000,000 coordinate pairs and efficiently finds the two pairs that are the closest, printing the distance between them to the console.
 
-    ![image](https://github.com/user-attachments/assets/eee938fb-1ac3-4984-aa55-0812d99eb6b2)
+![image](https://github.com/user-attachments/assets/eee938fb-1ac3-4984-aa55-0812d99eb6b2)
 
 HOW TO USE:
 If you wanted to use another file other than the one provided with the project, there are some parameters to follow.
